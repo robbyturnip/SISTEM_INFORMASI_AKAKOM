@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="deskripsi_awal_berita">
+        <item>Yogyakarta, 21 November 2017-Perkembangan IT pada sebuah negara mampu meningkatkan kinerja  yang ada</item>
+        <item>Kuliah akbar aksi kebangsaan perguruan tinggi melawan radikalisme ini dilaksanakan di Stadion Mandala Krida Yogyakarta</item>
+        <item>Event Road To “DevSummit 2017” merupakan event yang diselenggarakan oleh Codepolitan dan Refactory</item>
+        <item>Kuliah TAMU dengan tema “Mencegah Paham Radikalisme dengan Mengamalkan Pancasila”  yang diselenggarakan oleh BEM STMIK AKAKOM</item>
+        <item>STMIK AKAKOM selalu bekerjasama dengan berbagai macam perusahaan-perusahaan di Indonesia</item>
+        <item>STMIK AKAKOM selalu bekerjasama dengan berbagai macam perusahaan-perusahaan di Indonesia</item>
+        <item>Bapak Ir. Hadiyono, M.M. adalah salah satu dosen STMIK AKAKOM Yogyakarta yang sudah mengabdi selama kurang lebih 21 tahun</item>
+    </array>
+    <array name="diskripsi_awal_info">
+        <item>Dikarenakan ada jadwal perkuliahan yg bersamaan dengan hari libur nasioninal</item>
+        <item>Dengan ini diumumkan</item>
+        <item>STMIK AKAKOM berkerjasama dengan Telkomsel</item>
+        <item>Diberitahukan kepada seluruh mahasiswa baru tahun angkatan 2016</item>
+    </array>
+    <array name="gambarAdmin">
+        <item>@drawable/akakom</item>
+        <item>@drawable/akakom</item>
+        <item>@drawable/akakom</item>
+        <item>@drawable/akakom</item>
+        <item>@drawable/akakom</item>
+        <item>@drawable/akakom</item>
+    </array>
+    <array name="gambar_berita">
+        <item>@drawable/berita1</item>
+        <item>@drawable/berita2</item>
+        <item>@drawable/berita3</item>
+        <item>@drawable/berita4</item>
+        <item>@drawable/berita5</item>
+        <item>@drawable/berita6</item>
+    </array>
+    <array name="gambar_info">
+        <item>@drawable/berita1</item>
+        <item>@drawable/berita2</item>
+        <item>@drawable/berita3</item>
+        <item>@drawable/berita4</item>
+    </array>
+    <array name="judul_info">
+        <item>Info Penggantian Jadwal Kuliah</item>
+        <item>PENGUMUMAN PKL PRODI TEKNIK INFORMATIKA dan SISTEM INFORMASI SEMESTER GENAP T.A. 2016/2017</item>
+        <item>Penambahan Kuota Sertifikasi Internasional</item>
+        <item>Kuliah Umum NIIT Bagi Mahasiswa Baru 2016</item>
+    </array>
+    <array name="judulberita">
+        <item>KUNJUNGAN INDUSTRI SMK UMAR FATAH KE STMIK AKAKOM</item>
+        <item>Kuliah Akbar Aksi Kebangsaan Perguruan Tinggi Melawan Radikalisme</item>
+        <item>DevSummit 2017- Yogyakarta Dengan Tema “Github For Kids Jaman Now”</item>
+        <item>Kuliah TAMU Dengan Tema “Mencegah Paham Radikalisme Dengan Mengamalkan Pancasila”</item>
+        <item>Kunjungan PT Freeport Indonesia Ke STMIK AKAKOM Yogyakarta</item>
+        <item>Pelepasan Purna Tugas Bapak Ir. Hadiyono, M.M.</item>
+    </array>
+    <array name="penulis">
+        <item>Admin</item>
+        <item>Admin</item>
+        <item>Admin</item>
+        <item>Admin</item>
+        <item>Admin</item>
+        <item>Admin</item>
+    </array>
+    <array name="rincian_deskripsi_berita">
+        <item>Yogyakarta, 21 November 2017-Perkembangan IT pada sebuah negara mampu meningkatkan kinerja  yang ada, sehingga negara tersebut bisa dikatakan sebagai negara maju. IT berperan penting dalam pendidikan, maka SMK UMAR FATAH mengadakan  kunjungan industri bagi siswa kelas 11 yang terdiri dari kompetensi keahlian Multimedia, Rekayasa Perangkat Lunak, dan Teknik Komputer dan Jaringan ke STMIK AKAKOM dengan jumlah peserta sebanyak 80 orang. STMIK AKAKOM merupakan sekolah  tinggi IT yang tertua di Yogyakarta dan institusi yang sudah terakreditasi B. Acara yang diselenggarakan di ruang presentasi tersebut dibuka oleh Ir. Totok Prawoto, M.M., M.T. dan dilanjutkan materi yang disampaikan oleh Bapak Kuindra Irianto tentang Arduino. Arduino sangat populer di dunia karena banyak  sekali pemula yang belajar mengenal robotika dan elektronika lewat Arduino. Kegiatan belajar yang berlangsung sampai tengah hari pun tak menyurutkan semangat para siswa SMK UMAR FATAH untuk belajar dan mengenal lebih dekat dengan STMIK AKAKOM. Dari kunjungan industri inilah siswa diharapkan dapat memberikan gambaran bagaimana teknologi berkembang dan teknologi yang dibuat dapat diwujudkan dalam  dunia nyata.</item>
+        <item>Kuliah akbar aksi kebangsaan perguruan tinggi melawan radikalisme ini dilaksanakan di Stadion Mandala Krida Yogyakarta, Sabtu (28/10/2017). Kuliah akbar ini diikuti dari berbagai universitas diseluruh provinsi DIY, ada sekitar kurang lebih 17.000 mahasiswa yang ikut berpartisipasi dalam kuliah akbar tersebut. Acara ini juga dihadiri oleh Gubernur DIY, Pimpinan Polri, TNI, dan Pimpinan dari Perguran Tinggi Se-DIY.               Penyampaian orasi kebangsaan dilakukan oleh Gubernur DIY dan Rektor UIN. Tujuan dari kegiatan ini yaitu menegaskan kembali UUD 1945, Bhineka Tunggal Ika, dan NKRI sebagi pilar utama dan Pancasila sebagai landasan Bangsa. Diharapkan mahasiswa mengedepankan tali persaudaraan, saling menghargai satu sama lain, dan bersikap toleransi terhadap sesama.</item>
+        <item>Event Road To “DevSummit 2017” merupakan event yang diselenggarakan oleh Codepolitan dan Refactory. Event ini merupakan salah satu event pembuka untuk memperkenalkan kepada komunitas IT yang berada diseluruh Indonesia tentang DevSummit 2017. Event ini diadakan di tiga kota besar yaitu Jakarta, Bandung, dan Yogyakarta. STMIK AKAKOM terpilih menjadi tuan rumah diadakannya DevSummit 2017 untuk Kota Yogyakarta.   Event dengan tema Github for Kids Jaman Now ini dilaksanakan bertepatan dengan hari sumpah pemuda 28 Oktober 2017, di Ruang Presentasi STMIK AKAKOM. Narasumber dari event tersebut yaitu Bambang Purnomosidi D.P yang merupakan VP Curiculum at Refactory. Peserta yang mengikuti event DevSummit Kota Yogyakarta ini berasal dari Mahasiswa Akakom dan umum. Diharapkan dari kegitan ini komunitas IT dapat berpartisipasi dan mengetahui tentang event DevSummit 2017, serta memberikan pengetahuan baru didunia IT.</item>
+        <item>Kuliah TAMU dengan tema “Mencegah Paham Radikalisme dengan Mengamalkan Pancasila”  yang diselenggarakan oleh BEM STMIK AKAKOM, Sabtu, (14/10/2017). Kuliah tamu ini diselenggarakan di Ruang Presentasi Akakom dengan narasumber Drs. H. Muhammad Idham Samawi. Peserta dari kuliah tamu ini dihadiri oleh mahasiswa STMIK AKAKOM. Kuliah tamu dibuka oleh Ibu Syamsu Windarti selaku bidang kemahasiswaan STMIK AKAKOM.   Tujuan dilaksanakan kegiatan ini yaitu agar dapat mengamalkan pancasila dan mengimplementasikan dalam kehidupan sehari-hari. Acara diakhiri dengan pemberian kenang-kenangan kepada pemateri.</item>
+        <item>STMIK AKAKOM selalu bekerjasama dengan berbagai macam perusahaan-perusahaan di Indonesia, untuk keperluan hiring kampus dan menjalin kerjasama yang baik. Salah satunya adalah PT Freeport Indonesia. PT Freeport Indonesia Merupakan perusahaan afiliasi dari Freeport-McMoRan. PTFI menambang, memproses dan melakukan eksplorasi terhadap bijih yang mengandung tembaga, emas dan perak   Kunjungan PT Freeport Indonesia untuk keperluan hiring lulusan dari STMIK AKAKOM khususnya bagi mahasiswa yang mempunyai darah papua. Kunjungan ini dilakukan pada hari Senin, 2 Oktober 2017 di ruang puket 3. Dalam kunjungannya merencanakan akan diadakan studium general dari PT Freeport Indonesia untuk mahasiswa AKAKOM.</item>
+        <item>Bapak Ir. Hadiyono, M.M. adalah salah satu dosen STMIK AKAKOM Yogyakarta yang sudah mengabdi selama kurang lebih 21 tahun. Bapak Hadiyono telah memasuki masa purna tugasnya pada tanggal 12 Oktober 2017.  Pelepasan purna tugas Bapak Hadiyono dilaksanakan pada hari Jum’at, 13 Oktober 2017 di Ruang Presentasi STMIK AKAKOM. Terima Kasih Kepada Bapak Hadiyono, telah mengabdi dan memberikan karya serta ilmu untuk STMIK AKAKOM Yogyakarta </item>
+    </array>
+    <array name="rincian_diskripsi_info">
+        <item>Dikarenakan ada jadwal perkuliahan yg bersamaan dengan hari libur nasioninal, maka pengajaran melakukan penggantian pada hari tersebut. Informasi dapat merujuk pada gambar diatas</item>
+        <item>Dengan ini diumumkan : 1. Hasil verifikasi mahasiswa yang mengambil matakuliah Praktik Kerja Lapangan Semester Genap T.A. 2016/2017 dapat di cek di papan pengumuman PKL (Papan Pengumuman Prodi) 2. Mahasiswa  (point 1), diwajibkan registrasi ulang pada : Tanggal        : 24 Februari 2017 s/d 3 Maret 2017 Pukul            : 09:00 s/d 16:00 WIB Tempat         : Selasar Ruang Ka. Prodi Catatan    : 1. Mahasiswa wajib mengisi buku registrasi, dan membawa form PKL  (unduh di ns.akakom.ac.id/~sistem-informasi) 2. Bagi yang mendaftar Mandiri, Wajib sudah memiliki tempat, alamat serta nomor telepon yang dituju. 3. Bagi yang mendaftar Asistensi, Wajib mendaftar sebagai asisten praktikum minimal 2 matakuliah praktikum ke Labolatorium STMIK AKAKOM 4. Bagi yang mendaftar Penempatan, tempat dan waktu PKL akan ditentukan TIM PKL.        3.  Mahasiswa (point 1) ,  diwajibkan datang pada : Hari, Tanggal  : Kamis, 2 Maret 2017 Pukul                : 11: 15 – 12:30 WIB (Tepat Waktu) Tempat             : Ruang Presentasi STMIK AKAKOM Acara                : Sosialisasi Tempat dan Topik PKL Narasumber   : Perusahaan IT Demikian informasi ini disampaikan untuk mendapatkan perhatian. Yogyakarta, 23 Februari 2017 TIM PKL</item>
+        <item>STMIK AKAKOM berkerjasama dengan Telkomsel, menyelenggarakan sertifikasi internasional melalui program TELKOMSEL INTERNATIONAL CERTIFICATION PROGRAM FOR GLOBAL ACHIEVEMENT. Program ini merupakan CSR dari Telkomsel, sebagai bentuk kepedulian akan pentingnya wawasan IT bertaraf nasional dan internasional bagi mahasiswa serta sertifikat Pendamping Ijasah (SPI) bagi lulusan perguruan tinggi. Mengingat banyaknya pememinat, maka STMIK AKAKOM menambahkan qouta menjadi 240 dari semula 200 kursi. Sementara itu, bagi peserta yang telah mendaftar, update pembagian kelas dapat dilihat disini.   Bidang sertifikasi yang diujikan meliputi beberapa kompetensi yaitu Microsoft Office Specialist (MOS)   Microsoft Office PowerPoint 2010 Microsoft Excel 2010 Microsoft Word 2010   Adobe Certified Associate (ACA)   Adobe PhotoShop CS6 Adobe InDesign CS6 Adobe Illustrator CS6   Microsoft Technology Associate (MTA)   Software Development Fundamental HTML 5   AutoDesk Certified User (ACU)   AutoCad 2010 Maya Inventor   Semua sertifikasi ini bersifat gratis. Bagi mahasiswa yang berminat dapat menghubungi bagian Kepuketan 3.</item>
+        <item>Diberitahukan kepada seluruh mahasiswa baru tahun angkatan 2016, non alih jalur dan pindahan. bahwa pada hari Sabtu tanggal 12 November 2016, pukul 08.00 - 11.00 akan diselenggarakan Stadium General Graduate Employability : How to live your dreams oleh Mr. Pravesh Kumar dari NIIT.Stadium General dilaksanakan di Gedung Bale Lantip STMIK AKAKOM YOGYAKARTA.Informasi lebih lengkap dapat menghubungi bagian Akademik</item>
+    </array>
+    <array name="tanggal_info">
+        <item>Senin, 8-Mei-2017</item>
+        <item>Selasa, 28-Feb-2017</item>
+        <item>Jumat, 18-Nov-2016</item>
+        <item>Jumat, 4-Nov-2016</item>
+    </array>
+    <array name="tanggalberita">
+        <item>Jumat, 24-Nov-2017</item>
+        <item>Jumat, 17-Nov-2017</item>
+        <item>Jumat, 17-Nov-2017</item>
+        <item>Jumat, 20-Okt-2017</item>
+        <item>Jumat, 20-Okt-2017</item>
+        <item>Jumat, 20-Okt-2017</item>
+    </array>
+    <array name="waktu_info">
+        <item>04:30:22</item>
+        <item>06:02:09</item>
+        <item>06:00:45</item>
+        <item>04:26:34</item>
+    </array>
+    <array name="waktuberita">
+        <item>06:21:51</item>
+        <item>06:02:09</item>
+        <item>06:00:45</item>
+        <item>04:26:34</item>
+        <item>04:08:47</item>
+        <item>03:56:20</item>
+    </array>
+</resources>

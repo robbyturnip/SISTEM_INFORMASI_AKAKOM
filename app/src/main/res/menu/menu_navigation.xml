@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/ic_home"
+            android:tint="@color/button_grey"
+            android:title="Beranda"
+            android:id="@+id/beranda"/>
+        <item
+            android:icon="@drawable/ic_label"
+            android:tint="@color/button_grey"
+            android:title="Jurusan"
+            android:id="@+id/jurusan"/>
+        <item
+            android:icon="@drawable/ic_school"
+            android:tint="@color/button_grey"
+            android:title="Profile"
+            android:id="@+id/profil"/>
+        <item
+            android:icon="@android:drawable/ic_media_pause"
+            android:tint="@color/button_grey"
+            android:title="Visi dan Misi"
+            android:id="@+id/vm"/>
+        <item
+            android:icon="@drawable/ic_label"
+            android:tint="@color/button_grey"
+            android:title="Penjabat STMIK AKAKOM"
+            android:id="@+id/penjabat"/>
+        <item
+            android:icon="@drawable/ic_school"
+            android:tint="@color/button_grey"
+            android:title="Kontak Dosen"
+            android:id="@+id/kontakdosen"/>
+        <item
+            android:icon="@drawable/ic_school"
+            android:tint="@color/button_grey"
+            android:title="MAP STMIK AKAKOM"
+            android:id="@+id/kontakakakom"/>
+    </group>
+</menu>
